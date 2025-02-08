@@ -37,3 +37,8 @@
 AgeWell bridges the gap between seniors and modern technology by focusing on accessibility, safety, and user-friendliness. Whether it's staying connected, managing health, or seeking help in emergencies, AgeWell empowers seniors to embrace technology confidently.
 
 With AgeWell, seniors can **age gracefully and independently.**
+
+# Group Members
+Sarvamangala B
+Varshini S
+
